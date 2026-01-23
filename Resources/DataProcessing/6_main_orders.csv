@@ -1,0 +1,266 @@
+order_id,customer_id,customer_name,order_date,product_category,quantity,unit_price,total_amount,payment_method,customer_rating,discount_applied,shipping_city,shipping_country
+ORD001,C001,Alice Smith,2024-01-15,Electronics,2,899.99,1799.98,Credit Card,4.5,10.0,New York,USA
+ORD002,C002,Bob Johnson,2024-01-16,Clothing,3,59.99,179.97,PayPal,4.0,5.0,Los Angeles,USA
+ORD003,C003,Carol Williams,2024-01-17,Food,5,12.99,64.95,Cash,3.5,0.0,Chicago,USA
+ORD004,C004,David Brown,2024-01-18,Electronics,1,1299.99,1299.99,Credit Card,5.0,15.0,Houston,USA
+ORD005,C005,Emma Davis,2024-01-19,Clothing,4,39.99,159.96,PayPal,3.0,8.0,Phoenix,USA
+ORD006,C006,Frank Miller,2024-01-20,Food,2,8.99,17.98,Cash,2.5,0.0,Philadelphia,USA
+ORD007,C007,Grace Wilson,2024-01-21,Electronics,1,699.99,699.99,Credit Card,4.5,12.0,San Antonio,USA
+ORD008,C008,Henry Moore,2024-01-22,Clothing,3,29.99,89.97,PayPal,3.5,0.0,San Diego,USA
+ORD009,C009,Iris Taylor,2024-01-23,Food,6,15.99,95.94,Cash,4.0,0.0,Dallas,USA
+ORD010,C010,Jack Anderson,2024-01-24,Electronics,2,449.99,899.98,Credit Card,4.5,10.0,San Jose,USA
+ORD011,C001,Alice Smith,2024-01-25,Clothing,5,19.99,99.95,PayPal,3.0,0.0,Austin,USA
+ORD012,C012,Kevin Thomas,2024-01-26,Food,3,11.99,35.97,Cash,4.0,0.0,Jacksonville,USA
+ORD013,C013,Linda Jackson,2024-01-27,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Fort Worth,USA
+ORD014,C014,Michael White,2024-01-28,Clothing,2,49.99,99.98,PayPal,4.0,5.0,Columbus,USA
+ORD015,C015,Nancy Harris,2024-01-29,Food,4,9.99,39.96,Cash,3.5,0.0,Charlotte,USA
+ORD016,C016,Olivia Martin,2024-01-30,Electronics,3,299.99,899.97,Credit Card,4.0,8.0,San Francisco,USA
+ORD017,C017,Paul Thompson,2024-01-31,Clothing,6,24.99,149.94,PayPal,3.5,0.0,Indianapolis,USA
+ORD018,C018,Quinn Garcia,2024-02-01,Food,2,13.99,27.98,Cash,4.5,0.0,Seattle,USA
+ORD019,C019,Rachel Martinez,2024-02-02,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Denver,USA
+ORD020,C020,Samuel Robinson,2024-02-03,Clothing,3,34.99,104.97,PayPal,4.0,5.0,Washington,USA
+ORD021,C021,Tina Clark,2024-02-04,Food,5,7.99,39.95,Cash,3.0,0.0,Boston,USA
+ORD022,C022,Uma Lewis,2024-02-05,Electronics,2,799.99,1599.98,Credit Card,4.5,12.0,El Paso,USA
+ORD023,C023,Victor Lee,2024-02-06,Clothing,4,44.99,179.96,PayPal,3.5,0.0,Detroit,USA
+ORD024,C024,Wendy Walker,2024-02-07,Food,3,16.99,50.97,Cash,4.0,0.0,Nashville,USA
+ORD025,C025,Xavier Hall,2024-02-08,Electronics,1,549.99,549.99,Credit Card,4.0,10.0,Portland,USA
+ORD026,C026,Yara Allen,2024-02-09,Clothing,2,54.99,109.98,PayPal,4.5,5.0,Memphis,USA
+ORD027,C027,Zack Young,2024-02-10,Food,4,14.99,59.96,Cash,3.5,0.0,Oklahoma City,USA
+ORD028,C028,Amy King,2024-02-11,Electronics,3,349.99,1049.97,Credit Card,4.5,8.0,Las Vegas,USA
+ORD029,C029,Brian Wright,2024-02-12,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Louisville,USA
+ORD030,C030,Catherine Lopez,2024-02-13,Food,2,12.99,25.98,Cash,3.5,0.0,Baltimore,USA
+ORD031,C031,Daniel Hill,2024-02-14,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Milwaukee,USA
+ORD032,C032,Ella Scott,2024-02-15,Clothing,3,44.99,134.97,PayPal,4.0,5.0,Albuquerque,USA
+ORD033,C033,Felix Green,2024-02-16,Food,6,10.99,65.94,Cash,4.0,0.0,Tucson,USA
+ORD034,C034,Grace Adams,2024-02-17,Electronics,2,449.99,899.98,Credit Card,4.5,10.0,Fresno,USA
+ORD035,C035,Henry Baker,2024-02-18,Clothing,4,34.99,139.96,PayPal,3.5,0.0,Mesa,USA
+ORD036,C036,Iris Nelson,2024-02-19,Food,3,19.99,59.97,Cash,4.5,0.0,Sacramento,USA
+ORD037,C037,Jack Carter,2024-02-20,Electronics,1,799.99,799.99,Credit Card,4.0,12.0,Atlanta,USA
+ORD038,C038,Kelly Mitchell,2024-02-21,Clothing,2,49.99,99.98,PayPal,3.5,0.0,Kansas City,USA
+ORD039,C039,Liam Perez,2024-02-22,Food,5,11.99,59.95,Cash,4.0,0.0,Colorado Springs,USA
+ORD040,C040,Maya Roberts,2024-02-23,Electronics,3,299.99,899.97,Credit Card,4.5,8.0,Miami,USA
+ORD041,C041,Noah Turner,2024-02-24,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Raleigh,USA
+ORD042,C042,Olivia Phillips,2024-02-25,Food,2,14.99,29.98,Cash,3.5,0.0,Omaha,USA
+ORD043,C043,Paul Campbell,2024-02-26,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Long Beach,USA
+ORD044,C044,Quinn Parker,2024-02-27,Clothing,3,39.99,119.97,PayPal,4.0,5.0,Virginia Beach,USA
+ORD045,C045,Ryan Evans,2024-02-28,Food,4,9.99,39.96,Cash,3.0,0.0,Oakland,USA
+ORD046,C046,Sarah Edwards,2024-03-01,Electronics,2,599.99,1199.98,Credit Card,4.5,10.0,Minneapolis,USA
+ORD047,C047,Thomas Collins,2024-03-02,Clothing,5,44.99,224.95,PayPal,4.0,0.0,Tulsa,USA
+ORD048,C048,Uma Stewart,2024-03-03,Food,3,17.99,53.97,Cash,4.0,0.0,Tampa,USA
+ORD049,C049,Victor Sanchez,2024-03-04,Electronics,1,699.99,699.99,Credit Card,4.0,8.0,Arlington,USA
+ORD050,C050,Wendy Morris,2024-03-05,Clothing,4,34.99,139.96,PayPal,3.5,0.0,New Orleans,USA
+ORD051,C051,Xavier Rogers,2024-03-06,Food,2,13.99,27.98,Cash,4.5,0.0,Wichita,USA
+ORD052,C052,Yara Reed,2024-03-07,Electronics,3,399.99,1199.97,Credit Card,4.5,12.0,Cleveland,USA
+ORD053,C053,Zack Cook,2024-03-08,Clothing,6,24.99,149.94,PayPal,4.0,0.0,Bakersfield,USA
+ORD054,C054,Amy Morgan,2024-03-09,Food,5,8.99,44.95,Cash,3.0,0.0,Aurora,USA
+ORD055,C055,Brian Bell,2024-03-10,Electronics,1,549.99,549.99,Credit Card,4.0,10.0,Honolulu,USA
+ORD056,C056,Catherine Murphy,2024-03-11,Clothing,3,49.99,149.97,PayPal,4.5,5.0,Anaheim,USA
+ORD057,C057,Daniel Bailey,2024-03-12,Food,4,15.99,63.96,Cash,3.5,0.0,Santa Ana,USA
+ORD058,C058,Ella Rivera,2024-03-13,Electronics,2,449.99,899.98,Credit Card,4.0,8.0,Corpus Christi,USA
+ORD059,C059,Felix Cooper,2024-03-14,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Riverside,USA
+ORD060,C060,Grace Richardson,2024-03-15,Food,3,12.99,38.97,Cash,4.5,0.0,Lexington,USA
+ORD061,C061,Henry Cox,2024-03-16,Electronics,1,899.99,899.99,Credit Card,5.0,15.0,Stockton,USA
+ORD062,C062,Iris Howard,2024-03-17,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Henderson,USA
+ORD063,C063,James Ward,2024-03-18,Food,2,19.99,39.98,Cash,3.5,0.0,Saint Paul,USA
+ORD064,C064,Kelly Torres,2024-03-19,Electronics,3,349.99,1049.97,Credit Card,4.5,10.0,Cincinnati,USA
+ORD065,C065,Liam Peterson,2024-03-20,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Pittsburgh,USA
+ORD066,C066,Maya Gray,2024-03-21,Food,5,11.99,59.95,Cash,3.0,0.0,Greensboro,USA
+ORD067,C067,Noah Ramirez,2024-03-22,Electronics,1,799.99,799.99,Credit Card,4.0,12.0,Anchorage,USA
+ORD068,C068,Olivia James,2024-03-23,Clothing,3,54.99,164.97,PayPal,4.5,5.0,Plano,USA
+ORD069,C069,Paul Watson,2024-03-24,Food,4,14.99,59.96,Cash,4.0,0.0,Lincoln,USA
+ORD070,C070,Quinn Brooks,2024-03-25,Electronics,2,499.99,999.98,Credit Card,4.5,8.0,Newark,USA
+ORD071,C071,Ryan Kelly,2024-03-26,Clothing,5,34.99,174.95,PayPal,3.5,0.0,Orlando,USA
+ORD072,C072,Sarah Sanders,2024-03-27,Food,3,16.99,50.97,Cash,4.0,0.0,Toledo,USA
+ORD073,C073,Thomas Price,2024-03-28,Electronics,1,699.99,699.99,Credit Card,5.0,15.0,Durham,USA
+ORD074,C074,Uma Bennett,2024-03-29,Clothing,4,39.99,159.96,PayPal,4.0,0.0,Fresno,USA
+ORD075,C075,Victor Wood,2024-03-30,Food,2,13.99,27.98,Cash,3.5,0.0,Chula Vista,USA
+ORD076,C076,Wendy Barnes,2024-03-31,Electronics,3,299.99,899.97,Credit Card,4.0,8.0,Baton Rouge,USA
+ORD077,C077,Xavier Ross,2024-04-01,Clothing,6,24.99,149.94,PayPal,4.5,0.0,Fontana,USA
+ORD078,C078,Yara Henderson,2024-04-02,Food,5,9.99,49.95,Cash,3.0,0.0,St. Petersburg,USA
+ORD079,C079,Zack Coleman,2024-04-03,Electronics,1,449.99,449.99,Credit Card,4.0,10.0,Des Moines,USA
+ORD080,C080,Amy Jenkins,2024-04-04,Clothing,3,49.99,149.97,PayPal,4.0,5.0,Moreno Valley,USA
+ORD081,C081,Brian Perry,2024-04-05,Food,4,15.99,63.96,Cash,4.5,0.0,Modesto,USA
+ORD082,C082,Catherine Powell,2024-04-06,Electronics,2,399.99,799.98,Credit Card,4.5,12.0,Santa Clarita,USA
+ORD083,C083,Daniel Long,2024-04-07,Clothing,5,44.99,224.95,PayPal,4.0,0.0,Centennial,USA
+ORD084,C084,Ella Patterson,2024-04-08,Food,3,12.99,38.97,Cash,3.5,0.0,Garden Grove,USA
+ORD085,C085,Felix Hughes,2024-04-09,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Oxnard,USA
+ORD086,C086,Grace Flores,2024-04-10,Clothing,4,34.99,139.96,PayPal,4.0,0.0,Overland Park,USA
+ORD087,C087,Henry Washington,2024-04-11,Food,2,18.99,37.98,Cash,4.0,0.0,St. Louis,USA
+ORD088,C088,Iris Butler,2024-04-12,Electronics,3,349.99,1049.97,Credit Card,4.5,10.0,Cape Coral,USA
+ORD089,C089,James Simmons,2024-04-13,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Port St. Lucie,USA
+ORD090,C090,Kelly Foster,2024-04-14,Food,5,11.99,59.95,Cash,3.0,0.0,Grand Prairie,USA
+ORD091,C091,Liam Gonzales,2024-04-15,Electronics,1,799.99,799.99,Credit Card,4.0,12.0,Tallahassee,USA
+ORD092,C092,Maya Bryant,2024-04-16,Clothing,3,54.99,164.97,PayPal,4.5,5.0,Salinas,USA
+ORD093,C093,Noah Alexander,2024-04-17,Food,4,14.99,59.96,Cash,4.0,0.0,Charleston,USA
+ORD094,C094,Olivia Russell,2024-04-18,Electronics,2,449.99,899.98,Credit Card,4.5,8.0,Augusta,USA
+ORD095,C095,Paul Griffin,2024-04-19,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Amarillo,USA
+ORD096,C096,Quinn Diaz,2024-04-20,Food,3,16.99,50.97,Cash,3.5,0.0, Providence,USA
+ORD097,C097,Ryan Hayes,2024-04-21,Electronics,1,649.99,649.99,Credit Card,5.0,15.0,Little Rock,USA
+ORD098,C098,Sarah Myers,2024-04-22,Clothing,4,44.99,179.96,PayPal,4.0,0.0, Huntsville,USA
+ORD099,C099,Thomas Ford,2024-04-23,Food,2,13.99,27.98,Cash,4.0,0.0,Glendale,USA
+ORD100,C100,Uma Hamilton,2024-04-24,Electronics,3,399.99,1199.97,Credit Card,4.0,10.0,Grand Rapids,USA
+ORD101,C001,Alice Smith,2024-04-25,Electronics,2,899.99,1799.98,Credit Card,4.5,10.0,New York,USA
+ORD102,C102,Victor Garcia,2024-04-26,Clothing,3,59.99,179.97,PayPal,4.0,5.0,Los Angeles,USA
+ORD103,C103,Wendy Martinez,2024-04-27,Food,5,12.99,64.95,Cash,3.5,0.0,Chicago,USA
+ORD104,C104,Xavier Robinson,2024-04-28,Electronics,1,1299.99,1299.99,Credit Card,5.0,15.0,Houston,USA
+ORD105,C105,Yara Clark,2024-04-29,Clothing,4,39.99,159.96,PayPal,3.0,8.0,Phoenix,USA
+ORD106,C106,Zack Rodriguez,2024-04-30,Food,2,8.99,17.98,Cash,2.5,0.0,Philadelphia,USA
+ORD107,C107,Amy Lewis,2024-05-01,Electronics,1,699.99,699.99,Credit Card,4.5,12.0,San Antonio,USA
+ORD108,C108,Brian Lee,2024-05-02,Clothing,3,29.99,89.97,PayPal,3.5,0.0,San Diego,USA
+ORD109,C109,Catherine Walker,2024-05-03,Food,6,15.99,95.94,Cash,4.0,0.0,Dallas,USA
+ORD110,C110,David Hall,2024-05-04,Electronics,2,449.99,899.98,Credit Card,4.5,10.0,San Jose,USA
+ORD111,C111,Emma Allen,2024-05-05,Clothing,5,19.99,99.95,PayPal,3.0,0.0,Austin,USA
+ORD112,C112,Frank Young,2024-05-06,Food,3,11.99,35.97,Cash,4.0,0.0,Jacksonville,USA
+ORD113,C113,Grace Hernandez,2024-05-07,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Fort Worth,USA
+ORD114,C114,Henry King,2024-05-08,Clothing,2,49.99,99.98,PayPal,4.0,5.0,Columbus,USA
+ORD115,C115,Iris Wright,2024-05-09,Food,4,9.99,39.96,Cash,3.5,0.0,Charlotte,USA
+ORD116,C116,James Lopez,2024-05-10,Electronics,3,299.99,899.97,Credit Card,4.0,8.0,San Francisco,USA
+ORD117,C117,Kelly Hill,2024-05-11,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Indianapolis,USA
+ORD118,C118,Liam Green,2024-05-12,Food,2,13.99,27.98,Cash,2.5,0.0,Seattle,USA
+ORD119,C119,Maya Adams,2024-05-13,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Denver,USA
+ORD120,C120,Noah Baker,2024-05-14,Clothing,3,54.99,164.97,PayPal,4.5,5.0,Washington,USA
+ORD121,C121,Olivia Gonzales,2024-05-15,Food,5,8.99,44.95,Cash,3.0,0.0,Boston,USA
+ORD122,C122,Paul Nelson,2024-05-16,Electronics,2,799.99,1599.98,Credit Card,4.5,12.0,El Paso,USA
+ORD123,C123,Quinn Carter,2024-05-17,Clothing,4,44.99,179.96,PayPal,3.5,0.0,Detroit,USA
+ORD124,C124,Ryan Mitchell,2024-05-18,Food,3,17.99,53.97,Cash,4.0,0.0,Nashville,USA
+ORD125,C125,Sarah Perez,2024-05-19,Electronics,1,549.99,549.99,Credit Card,4.0,10.0,Portland,USA
+ORD126,C126,Thomas Roberts,2024-05-20,Clothing,6,24.99,149.94,PayPal,4.0,0.0,Memphis,USA
+ORD127,C127,Uma Turner,2024-05-21,Food,5,15.99,79.95,Cash,3.5,0.0,Oklahoma City,USA
+ORD128,C128,Victor Phillips,2024-05-22,Electronics,3,699.99,2099.97,Credit Card,5.0,15.0,Las Vegas,USA
+ORD129,C129,Wendy Campbell,2024-05-23,Clothing,4,49.99,199.96,PayPal,4.5,5.0,Louisville,USA
+ORD130,C130,Xavier Parker,2024-05-24,Food,2,12.99,25.98,Cash,3.0,0.0,Baltimore,USA
+ORD131,C131,Yara Evans,2024-05-25,Electronics,1,999.99,999.99,Credit Card,4.0,20.0,Milwaukee,USA
+ORD132,C132,Zack Collins,2024-05-26,Clothing,3,39.99,119.97,PayPal,4.0,0.0,Albuquerque,USA
+ORD133,C133,Amy Stewart,2024-05-27,Food,5,11.99,59.95,Cash,4.5,0.0,Tucson,USA
+ORD134,C134,Brian Sanchez,2024-05-28,Electronics,2,449.99,899.98,Credit Card,4.0,10.0,Fresno,USA
+ORD135,C135,Catherine Morris,2024-05-29,Clothing,4,34.99,139.96,PayPal,3.5,0.0,Mesa,USA
+ORD136,C136,Daniel Rogers,2024-05-30,Food,3,16.99,50.97,Cash,4.0,0.0,Sacramento,USA
+ORD137,C137,Emma Reed,2024-06-01,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Atlanta,USA
+ORD138,C138,Felix Cook,2024-06-02,Clothing,6,29.99,179.94,PayPal,4.5,0.0,Kansas City,USA
+ORD139,C139,Grace Morgan,2024-06-03,Food,5,14.99,74.95,Cash,4.0,0.0,Colorado Springs,USA
+ORD140,C140,Henry Bell,2024-06-04,Electronics,2,499.99,999.98,Credit Card,4.0,10.0,Miami,USA
+ORD141,C141,Iris Murphy,2024-06-05,Clothing,4,44.99,179.96,PayPal,3.5,0.0,Raleigh,USA
+ORD142,C142,James Bailey,2024-06-06,Food,3,19.99,59.97,Cash,4.5,0.0,Omaha,USA
+ORD143,C143,Kelly Rivera,2024-06-07,Electronics,1,899.99,899.99,Credit Card,5.0,20.0,Lincoln,USA
+ORD144,C144,Liam Cooper,2024-06-08,Clothing,5,34.99,174.95,PayPal,4.0,0.0,New Orleans,USA
+ORD145,C145,Maya Reed,2024-06-09,Food,2,13.99,27.98,Cash,4.0,0.0,Wichita,USA
+ORD146,C146,Noah Howard,2024-06-10,Electronics,3,799.99,2399.97,Credit Card,5.0,15.0,Cleveland,USA
+ORD147,C147,Olivia Ward,2024-06-11,Clothing,4,54.99,219.96,PayPal,4.5,5.0,Bakersfield,USA
+ORD148,C148,Paul Torres,2024-06-12,Food,5,15.99,79.95,Cash,4.0,0.0,Tampa,USA
+ORD149,C149,Quinn Peterson,2024-06-13,Electronics,2,699.99,1399.98,Credit Card,4.0,12.0,Aurora,USA
+ORD150,C150,Ryan Gray,2024-06-14,Clothing,3,39.99,119.97,PayPal,4.0,0.0,Honolulu,USA
+ORD151,C151,Sarah Watson,2024-06-15,Food,4,16.99,67.96,Cash,3.5,0.0,Anaheim,USA
+ORD152,C152,Thomas Brooks,2024-06-16,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Santa Ana,USA
+ORD153,C153,Uma Kelly,2024-06-17,Clothing,6,29.99,179.94,PayPal,4.5,0.0,Corpus Christi,USA
+ORD154,C154,Victor Sanders,2024-06-18,Food,5,11.99,59.95,Cash,4.0,0.0,Overland Park,USA
+ORD155,C155,Wendy Price,2024-06-19,Electronics,2,449.99,899.98,Credit Card,4.0,10.0,Baton Rouge,USA
+ORD156,C156,Xavier Bennett,2024-06-20,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Fontana,USA
+ORD157,C157,Yara Wood,2024-06-21,Food,3,19.99,59.97,Cash,4.0,0.0,St. Petersburg,USA
+ORD158,C158,Zack Barnes,2024-06-22,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Des Moines,USA
+ORD159,C159,Amy Ross,2024-06-23,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Moreno Valley,USA
+ORD160,C160,Brian Henderson,2024-06-24,Food,2,14.99,29.98,Cash,3.5,0.0,Modesto,USA
+ORD161,C161,Catherine Coleman,2024-06-25,Electronics,3,599.99,1799.97,Credit Card,4.5,15.0,Santa Clarita,USA
+ORD162,C162,Daniel Jenkins,2024-06-26,Clothing,4,49.99,199.96,PayPal,4.0,0.0,Centennial,USA
+ORD163,C163,Emma Perry,2024-06-27,Food,5,15.99,79.95,Cash,4.5,0.0,Garden Grove,USA
+ORD164,C164,Felix Powell,2024-06-28,Electronics,2,999.99,1999.98,Credit Card,5.0,20.0,Oxnard,USA
+ORD165,C165,Grace Patterson,2024-06-29,Clothing,3,34.99,104.97,PayPal,4.0,0.0,Overland Park,USA
+ORD166,C166,Henry Hughes,2024-06-30,Food,4,13.99,55.96,Cash,3.5,0.0,St. Louis,USA
+ORD167,C167,Iris Watson,2024-07-01,Electronics,1,799.99,799.99,Credit Card,4.0,12.0,Cape Coral,USA
+ORD168,C168,James Washington,2024-07-02,Clothing,6,29.99,179.94,PayPal,4.5,0.0,Port St. Lucie,USA
+ORD169,C169,Kelly Butler,2024-07-03,Food,5,17.99,89.95,Cash,4.0,0.0,Grand Prairie,USA
+ORD170,C170,Liam Simmons,2024-07-04,Electronics,2,449.99,899.98,Credit Card,4.0,10.0,Tallahassee,USA
+ORD171,C171,Maya Foster,2024-07-05,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Salinas,USA
+ORD172,C172,Noah Gonzalez,2024-07-06,Food,3,19.99,59.97,Cash,3.5,0.0,Charleston,USA
+ORD173,C173,Olivia Bryant,2024-07-07,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Augusta,USA
+ORD174,C174,Paul Alexander,2024-07-08,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Riverside,USA
+ORD175,C175,Quinn Russell,2024-07-09,Food,2,15.99,31.98,Cash,4.0,0.0,Providence,USA
+ORD176,C176,Ryan Griffin,2024-07-10,Electronics,3,699.99,2099.97,Credit Card,4.5,15.0,Little Rock,USA
+ORD177,C177,Sarah Diaz,2024-07-11,Clothing,4,49.99,199.96,PayPal,4.0,0.0,Huntsville,USA
+ORD178,C178,Thomas Hayes,2024-07-12,Food,5,11.99,59.95,Cash,3.5,0.0,Glendale,USA
+ORD179,C179,Uma Myers,2024-07-13,Electronics,2,999.99,1999.98,Credit Card,5.0,20.0,Grand Rapids,USA
+ORD180,C180,Victor Ford,2024-07-14,Clothing,3,54.99,164.97,PayPal,4.5,5.0,Fresno,USA
+ORD181,C181,Wendy Hamilton,2024-07-15,Food,4,16.99,67.96,Cash,4.0,0.0,Des Moines,USA
+ORD182,C182,Xavier Graham,2024-07-16,Electronics,1,799.99,799.99,Credit Card,4.0,12.0,Moreno Valley,USA
+ORD183,C183,Yara Sullivan,2024-07-17,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Modesto,USA
+ORD184,C184,Zack Wallace,2024-07-18,Food,5,15.99,79.95,Cash,3.5,0.0,Santa Clarita,USA
+ORD185,C185,Amy Woods,2024-07-19,Electronics,2,449.99,899.98,Credit Card,4.5,10.0,Centennial,USA
+ORD186,C186,Brian Cole,2024-07-20,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Garden Grove,USA
+ORD187,C187,Catherine West,2024-07-21,Food,3,19.99,59.97,Cash,4.5,0.0,Oxnard,USA
+ORD188,C188,Daniel Jordan,2024-07-22,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Overland Park,USA
+ORD189,C189,Emma Owens,2024-07-23,Clothing,5,39.99,199.95,PayPal,4.0,0.0,St. Louis,USA
+ORD190,C190,Felix Reynolds,2024-07-24,Food,2,13.99,27.98,Cash,3.5,0.0,Cape Coral,USA
+ORD191,C191,Grace Cole,2024-07-25,Electronics,3,599.99,1799.97,Credit Card,4.0,15.0,Port St. Lucie,USA
+ORD192,C192,Henry Howard,2024-07-26,Clothing,4,49.99,199.96,PayPal,4.5,0.0,Grand Prairie,USA
+ORD193,C193,Iris Watson,2024-07-27,Food,5,17.99,89.95,Cash,4.0,0.0,Tallahassee,USA
+ORD194,C194,James Berry,2024-07-28,Electronics,2,449.99,899.98,Credit Card,4.0,10.0,Salinas,USA
+ORD195,C195,Kelly Ellis,2024-07-29,Clothing,3,44.99,134.97,PayPal,4.0,0.0,Charleston,USA
+ORD196,C196,Liam Harrison,2024-07-30,Food,4,15.99,63.96,Cash,3.5,0.0,Augusta,USA
+ORD197,C197,Maya Gibson,2024-07-31,Electronics,1,1199.99,1199.99,Credit Card,5.0,20.0,Riverside,USA
+ORD198,C198,Noah McDonald,2024-08-01,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Providence,USA
+ORD199,C199,Olivia Cruz,2024-08-02,Food,5,11.99,59.95,Cash,4.0,0.0,Little Rock,USA
+ORD200,C200,Paul Marshall,2024-08-03,Electronics,2,699.99,1399.98,Credit Card,4.5,12.0,Huntsville,USA
+ORD201,C201,Quinn Ortiz,2024-08-04,Clothing,4,49.99,199.96,PayPal,4.0,0.0,Glendale,USA
+ORD202,C202,Ryan Gomez,2024-08-05,Food,3,19.99,59.97,Cash,4.5,0.0,Grand Rapids,USA
+ORD203,C203,Sarah Murray,2024-08-06,Electronics,1,799.99,799.99,Credit Card,4.0,10.0,Fresno,USA
+ORD204,C204,Thomas Burgess,2024-08-07,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Des Moines,USA
+ORD205,C205,Uma Reeves,2024-08-08,Food,2,13.99,27.98,Cash,3.5,0.0,Moreno Valley,USA
+ORD206,C206,Victor Wheeler,2024-08-09,Electronics,3,999.99,2999.97,Credit Card,5.0,20.0,Modesto,USA
+ORD207,C207,Wendy Larson,2024-08-10,Clothing,4,34.99,139.96,PayPal,4.0,0.0,Santa Clarita,USA
+ORD208,C208,Xavier Harvey,2024-08-11,Food,4,16.99,67.96,Cash,4.0,0.0,Centennial,USA
+ORD209,C209,Yara Ramos,2024-08-12,Electronics,1,449.99,449.99,Credit Card,4.5,8.0,Garden Grove,USA
+ORD210,C210,Zack Hicks,2024-08-13,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Oxnard,USA
+ORD211,C211,Amy Holmes,2024-08-14,Food,5,19.99,99.95,Cash,4.5,0.0,Overland Park,USA
+ORD212,C212,Brian Washington,2024-08-15,Electronics,2,699.99,1399.98,Credit Card,4.0,12.0,St. Louis,USA
+ORD213,C213,Catherine Perry,2024-08-16,Clothing,4,49.99,199.96,PayPal,4.0,0.0,Cape Coral,USA
+ORD214,C214,Daniel Foster,2024-08-17,Food,3,12.99,38.97,Cash,3.5,0.0,Port St. Lucie,USA
+ORD215,C215,Emma Gonzales,2024-08-18,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Grand Prairie,USA
+ORD216,C216,Felix Bryant,2024-08-19,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Tallahassee,USA
+ORD217,C217,Grace Alexander,2024-08-20,Food,2,16.99,33.98,Cash,4.0,0.0,Salinas,USA
+ORD218,C218,Henry Russell,2024-08-21,Electronics,3,449.99,1349.97,Credit Card,4.5,10.0,Charleston,USA
+ORD219,C219,Iris Griffin,2024-08-22,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Augusta,USA
+ORD220,C220,James Diaz,2024-08-23,Food,5,14.99,74.95,Cash,4.5,0.0,Riverside,USA
+ORD221,C221,Kelly Hayes,2024-08-24,Electronics,1,1199.99,1199.99,Credit Card,5.0,15.0,Providence,USA
+ORD222,C222,Liam Myers,2024-08-25,Clothing,3,49.99,149.97,PayPal,4.0,0.0,Little Rock,USA
+ORD223,C223,Maya Ford,2024-08-26,Food,4,19.99,79.96,Cash,4.0,0.0,Huntsville,USA
+ORD224,C224,Noah Hamilton,2024-08-27,Electronics,2,699.99,1399.98,Credit Card,4.0,12.0,Glendale,USA
+ORD225,C225,Olivia Graham,2024-08-28,Clothing,6,29.99,179.94,PayPal,4.5,0.0,Grand Rapids,USA
+ORD226,C226,Paul Sullivan,2024-08-29,Food,5,15.99,79.95,Cash,3.5,0.0,Fresno,USA
+ORD227,C227,Quinn Wallace,2024-08-30,Electronics,1,799.99,799.99,Credit Card,4.0,10.0,Des Moines,USA
+ORD228,C228,Ryan Woods,2024-08-31,Clothing,4,54.99,219.96,PayPal,4.0,0.0,Moreno Valley,USA
+ORD229,C229,Sarah Cole,2024-09-01,Food,3,12.99,38.97,Cash,4.0,0.0,Modesto,USA
+ORD230,C230,Thomas West,2024-09-02,Electronics,3,999.99,2999.97,Credit Card,5.0,20.0,Santa Clarita,USA
+ORD231,C231,Uma Jordan,2024-09-03,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Centennial,USA
+ORD232,C232,Victor Owens,2024-09-04,Food,2,13.99,27.98,Cash,4.0,0.0,Garden Grove,USA
+ORD233,C233,Wendy Daniels,2024-09-05,Electronics,1,449.99,449.99,Credit Card,4.5,8.0,Oxnard,USA
+ORD234,C234,Xavier Ramos,2024-09-06,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Overland Park,USA
+ORD235,C235,Yara Price,2024-09-07,Food,4,16.99,67.96,Cash,3.5,0.0,St. Louis,USA
+ORD236,C236,Zack Bennett,2024-09-08,Electronics,2,699.99,1399.98,Credit Card,4.0,12.0,Cape Coral,USA
+ORD237,C237,Amy Wood,2024-09-09,Clothing,4,49.99,199.96,PayPal,4.0,0.0,Port St. Lucie,USA
+ORD238,C238,Brian Barnes,2024-09-10,Food,3,19.99,59.97,Cash,4.0,0.0,Grand Prairie,USA
+ORD239,C239,Catherine Ross,2024-09-11,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Tallahassee,USA
+ORD240,C240,Daniel Henderson,2024-09-12,Clothing,5,39.99,199.95,PayPal,4.0,0.0,Salinas,USA
+ORD241,C241,Emma Coleman,2024-09-13,Food,2,14.99,29.98,Cash,4.5,0.0,Charleston,USA
+ORD242,C242,Felix Jenkins,2024-09-14,Electronics,3,599.99,1799.97,Credit Card,4.5,15.0,Augusta,USA
+ORD243,C243,Grace Perry,2024-09-15,Clothing,4,44.99,179.96,PayPal,4.0,0.0,Riverside,USA
+ORD244,C244,Henry Powell,2024-09-16,Food,5,17.99,89.95,Cash,3.5,0.0,Providence,USA
+ORD245,C245,Iris Patterson,2024-09-17,Electronics,1,799.99,799.99,Credit Card,4.0,10.0,Little Rock,USA
+ORD246,C246,James Hughes,2024-09-18,Clothing,6,29.99,179.94,PayPal,4.0,0.0,Huntsville,USA
+ORD247,C247,Kelly Long,2024-09-19,Food,4,15.99,63.96,Cash,4.0,0.0,Glendale,USA
+ORD248,C248,Liam Flores,2024-09-20,Electronics,2,999.99,1999.98,Credit Card,5.0,20.0,Grand Rapids,USA
+ORD249,C249,Maya Washington,2024-09-21,Clothing,3,49.99,149.97,PayPal,4.5,5.0,Fresno,USA
+ORD250,C250,Noah Butler,2024-09-22,Food,5,12.99,64.95,Cash,3.0,0.0,Des Moines,USA
+ORD251,C251,Olivia Simmons,2024-09-23,Electronics,1,699.99,699.99,Credit Card,4.0,12.0,Moreno Valley,USA
+ORD252,C252,Paul Foster,2024-09-24,Clothing,4,39.99,159.96,PayPal,4.0,0.0,Modesto,USA
+ORD253,C253,Quinn Gonzales,2024-09-25,Food,3,18.99,56.97,Cash,4.0,0.0,Santa Clarita,USA
+ORD254,C254,Ryan Bryant,2024-09-26,Electronics,3,799.99,2399.97,Credit Card,5.0,15.0,Centennial,USA
+ORD255,C255,Sarah Alexander,2024-09-27,Clothing,5,34.99,174.95,PayPal,4.0,0.0,Garden Grove,USA
+ORD256,C256,Thomas Russell,2024-09-28,Food,2,13.99,27.98,Cash,3.5,0.0,Oxnard,USA
+ORD257,C257,Uma Griffin,2024-09-29,Electronics,1,449.99,449.99,Credit Card,4.5,8.0,Overland Park,USA
+ORD258,C258,Victor Diaz,2024-09-30,Clothing,6,29.99,179.94,PayPal,4.0,0.0,St. Louis,USA
+ORD259,C259,Wendy Hayes,2024-10-01,Food,4,16.99,67.96,Cash,4.0,0.0,Cape Coral,USA
+ORD260,C260,Xavier Myers,2024-10-02,Electronics,2,699.99,1399.98,Credit Card,4.0,12.0,Port St. Lucie,USA
+ORD261,C261,Yara Ford,2024-10-03,Clothing,3,49.99,149.97,PayPal,4.5,5.0,Grand Prairie,USA
+ORD262,C262,Zack Hamilton,2024-10-04,Food,5,15.99,79.95,Cash,4.0,0.0,Tallahassee,USA
+ORD263,C263,Amy Graham,2024-10-05,Electronics,1,999.99,999.99,Credit Card,5.0,20.0,Salinas,USA
+ORD264,C264,Bunny Sullivan,2024-10-06,Clothing,4,39.99,159.96,PayPal,4.0,0.0,Charleston,USA
+ORD265,C265,Charlie Wallace,2024-10-07,Food,2,19.99,39.98,Cash,3.5,0.0,Augusta,USA

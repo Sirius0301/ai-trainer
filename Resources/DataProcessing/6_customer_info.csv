@@ -1,0 +1,101 @@
+customer_id,customer_name,email,age,city,country,registration_date,customer_tier,lifetime_value
+C001,Alice Smith,alice.smith@email.com,28,New York,USA,2023-01-10,Gold,8500.50
+C002,Bob Johnson,bob.johnson@email.com,35,Los Angeles,USA,2023-02-15,Silver,4200.75
+C003,Carol Williams,carol.williams@email.com,42,Chicago,USA,2023-03-20,Bronze,1800.25
+C004,David Brown,david.brown@email.com,31,Houston,USA,2023-01-25,Gold,9200.00
+C005,Emma Davis,emma.davis@email.com,29,Phoenix,USA,2023-04-30,Silver,3500.60
+C006,Frank Miller,frank.miller@email.com,45,Philadelphia,USA,2023-02-28,Bronze,1200.40
+C007,Grace Wilson,grace.wilson@email.com,33,San Antonio,USA,2023-03-15,Gold,7600.80
+C008,Henry Moore,henry.moore@email.com,27,San Diego,USA,2023-01-20,Silver,2800.90
+C009,Iris Taylor,iris.taylor@email.com,38,Dallas,USA,2023-05-10,Bronze,950.20
+C010,Jack Anderson,jack.anderson@email.com,41,San Jose,USA,2023-02-05,Gold,8900.70
+C011,Kevin Thomas,kevin.thomas@email.com,36,Jacksonville,USA,2023-03-25,Silver,4100.30
+C012,Linda Jackson,linda.jackson@email.com,32,Fort Worth,USA,2023-01-15,Bronze,1650.50
+C013,Michael White,michael.white@email.com,39,Columbus,USA,2023-04-20,Gold,8300.40
+C014,Nancy Harris,nancy.harris@email.com,30,Charlotte,USA,2023-02-18,Silver,3200.60
+C015,Olivia Martin,olivia.martin@email.com,26,San Francisco,USA,2023-03-30,Bronze,1400.80
+C016,Paul Thompson,paul.thompson@email.com,34,Indianapolis,USA,2023-01-08,Gold,7800.20
+C017,Quinn Garcia,quinn.garcia@email.com,37,Seattle,USA,2023-05-05,Silver,3600.70
+C018,Rachel Martinez,rachel.martinez@email.com,43,Denver,USA,2023-02-22,Bronze,1150.30
+C019,Samuel Robinson,samuel.robinson@email.com,28,Washington,USA,2023-04-12,Gold,8600.90
+C020,Tina Clark,tina.clark@email.com,31,Boston,USA,2023-03-10,Silver,2950.10
+C021,Uma Lewis,uma.lewis@email.com,35,El Paso,USA,2023-01-12,Bronze,1100.00
+C022,Victor Lee,victor.lee@email.com,33,Detroit,USA,2023-05-15,Gold,9200.50
+C023,Wendy Walker,wendy.walker@email.com,40,Nashville,USA,2023-02-28,Silver,3800.20
+C024,Xavier Hall,xavier.hall@email.com,29,Portland,USA,2023-04-01,Bronze,1300.40
+C025,Yara Reed,yara.reed@email.com,44,Memphis,USA,2023-03-05,Gold,8000.60
+C026,Zack Young,zack.young@email.com,32,Oklahoma City,USA,2023-01-22,Silver,4100.80
+C027,Amy King,amy.king@email.com,27,Las Vegas,USA,2023-05-20,Bronze,1450.70
+C028,Brian Wright,brian.wright@email.com,38,Louisville,USA,2023-02-14,Gold,7600.30
+C029,Catherine Lopez,catherine.lopez@email.com,36,Baltimore,USA,2023-04-25,Silver,3400.90
+C030,Daniel Hill,daniel.hill@email.com,41,Milwaukee,USA,2023-03-18,Bronze,1250.50
+C031,Emma Jenkins,emma.jenkins@email.com,30,Tucson,USA,2023-01-30,Gold,8700.10
+C032,Felix Foster,felix.foster@email.com,34,Fresno,USA,2023-05-12,Silver,3100.60
+C033,Grace Perry,grace.perry@email.com,39,Mesa,USA,2023-02-20,Bronze,1050.80
+C034,Henry Russell,henry.russell@email.com,26,Sacramento,USA,2023-04-05,Gold,9300.40
+C035,Iris Diaz,iris.diaz@email.com,42,Atlanta,USA,2023-03-28,Silver,3700.20
+C036,Jack Hayes,jack.hayes@email.com,33,Kansas City,USA,2023-01-25,Bronze,1350.70
+C037,Kelly Hamilton,kelly.hamilton@email.com,37,Colorado Springs,USA,2023-05-08,Gold,8100.60
+C038,Liam Graham,liam.graham@email.com,31,Miami,USA,2023-02-12,Silver,2900.30
+C039,Maya Bryant,maya.bryant@email.com,40,Raleigh,USA,2023-04-15,Bronze,1200.00
+C040,Noah Alexander,noah.alexander@email.com,28,Omaha,USA,2023-03-22,Gold,8800.90
+C041,Olivia Russell,olivia.russell@email.com,36,Long Beach,USA,2023-01-18,Silver,3300.50
+C042,Paul Griffin,paul.griffin@email.com,35,Oakland,USA,2023-05-25,Bronze,1150.40
+C043,Quinn Diaz,quinn.diaz@email.com,29,Minneapolis,USA,2023-02-08,Gold,8600.70
+C044,Ryan Hayes,ryan.hayes@email.com,38,Tulsa,USA,2023-04-28,Silver,3500.80
+C045,Sarah Myers,sarah.myers@email.com,34,Tampa,USA,2023-03-15,Bronze,1400.60
+C046,Thomas Hughes,thomas.hughes@email.com,41,Arlington,USA,2023-01-28,Gold,7900.20
+C047,Uma Owens,uma.owens@email.com,32,New Orleans,USA,2023-05-18,Silver,3200.90
+C048,Victor Wheeler,victor.wheeler@email.com,26,Wichita,USA,2023-02-22,Bronze,1050.10
+C049,Wendy Larson,wendy.larson@email.com,43,Cleveland,USA,2023-04-20,Gold,8200.40
+C050,Xavier Harvey,xavier.harvey@email.com,37,Bakersfield,USA,2023-03-12,Silver,3600.60
+C051,Amy Ramos,amy.ramos@email.com,45,Aurora,USA,2023-01-15,Bronze,1300.80
+C052,Brian Daniels,brian.daniels@email.com,33,Anaheim,USA,2023-05-30,Gold,9100.50
+C053,Catherine Walsh,catherine.walsh@email.com,39,Santa Ana,USA,2023-02-25,Silver,3400.70
+C054,Daniel Jordan,daniel.jordan@email.com,31,Corpus Christi,USA,2023-04-10,Bronze,1250.30
+C055,Emma Owens,emma.owens@email.com,36,Riverside,USA,2023-03-20,Gold,7700.90
+C056,Felix Powell,felix.powell@email.com,28,Lexington,USA,2023-01-12,Silver,3100.40
+C057,Grace Patterson,grace.patterson@email.com,42,Stockton,USA,2023-05-22,Bronze,1100.70
+C058,Henry Hughes,henry.hughes@email.com,34,Saint Paul,USA,2023-02-28,Gold,8400.60
+C059,Iris Watson,iris.watson@email.com,29,Cincinnati,USA,2023-04-25,Silver,3800.20
+C060,James Berry,james.berry@email.com,40,Glendale,USA,2023-03-18,Bronze,1150.90
+C061,Kelly Reed,kelly.reed@email.com,32,Irvine,USA,2023-01-20,Gold,8600.30
+C062,Liam Foster,liam.foster@email.com,38,Newark,USA,2023-05-15,Silver,3500.70
+C063,Maya Gonzales,maya.gonzales@email.com,35,St. Louis,USA,2023-02-12,Bronze,1200.50
+C064,Noah Bryant,noah.bryant@email.com,41,Henderson,USA,2023-04-28,Gold,9100.80
+C065,Olivia Alexander,olivia.alexander@email.com,30,Fort Wayne,USA,2023-03-25,Silver,3200.60
+C066,Paul Russell,paul.russell@email.com,27,Jersey City,USA,2023-01-28,Bronze,1350.40
+C067,Quinn Griffin,quinn.griffin@email.com,39,Saint Petersburg,USA,2023-05-20,Gold,7800.70
+C068,Ryan Diaz,ryan.diaz@email.com,33,Chula Vista,USA,2023-02-18,Silver,3400.80
+C069,Sarah Hayes,sarah.hayes@email.com,36,Norfolk,USA,2023-04-15,Bronze,1150.20
+C070,Thomas Myers,thomas.myers@email.com,42,Orlando,USA,2023-03-12,Gold,8200.50
+C071,Uma Owens,uma.owens@email.com,31,Winston-Salem,USA,2023-01-15,Silver,2900.30
+C072,Victor Foster,victor.foster@email.com,29,Laredo,USA,2023-05-25,Bronze,1400.90
+C073,Wendy Gonzales,wendy.gonzales@email.com,38,Scottsdale,USA,2023-02-22,Gold,8700.60
+C074,Xavier Bryant,xavier.bryant@email.com,34,Garland,USA,2023-04-20,Silver,3300.70
+C075,Yara Alexander,yara.alexander@email.com,32,Glendale,USA,2023-03-28,Bronze,1250.40
+C076,Zack Russell,zack.russell@email.com,40,Hialeah,USA,2023-01-18,Gold,9500.80
+C077,Amy Griffin,amy.griffin@email.com,26,Reno,USA,2023-05-12,Silver,3600.20
+C078,Brian Diaz,brian.diaz@email.com,37,Chesapeake,USA,2023-02-25,Bronze,1050.60
+C079,Catherine Hayes,catherine.hayes@email.com,33,Irving,USA,2023-04-10,Gold,7900.40
+C080,Daniel Myers,daniel.myers@email.com,29,North Las Vegas,USA,2023-03-20,Silver,3200.70
+C081,Emma Owens,emma.owens@email.com,35,Fremont,USA,2023-01-12,Bronze,1150.50
+C082,Felix Foster,felix.foster@email.com,41,Buffalo,USA,2023-05-22,Gold,8800.30
+C083,Grace Powell,grace.powell@email.com,30,Wayne,USA,2023-02-28,Silver,3500.90
+C084,Henry Hughes,henry.hughes@email.com,38,Colorado,USA,2023-04-15,Bronze,1300.20
+C085,Iris Watson,iris.watson@email.com,32,Winston,USA,2023-03-18,Gold,8600.60
+C086,James Berry,james.berry@email.com,29,Henderson,USA,2023-01-25,Silver,3400.40
+C087,Kelly Reed,kelly.reed@email.com,39,Jersey,USA,2023-05-20,Bronze,1100.80
+C088,Liam Foster,liam.foster@email.com,33,Chula,USA,2023-02-12,Gold,7700.70
+C089,Maya Gonzales,maya.gonzales@email.com,40,Norfolk,USA,2023-04-28,Silver,3300.50
+C090,Noah Bryant,noah.bryant@email.com,26,Orlando,USA,2023-03-15,Bronze,1400.60
+C091,Olivia Alexander,olivia.alexander@email.com,41,Winston-Salem,USA,2023-01-28,Gold,9100.90
+C092,Paul Russell,paul.russell@email.com,30,Laredo,USA,2023-05-25,Silver,3600.20
+C093,Quinn Griffin,quinn.griffin@email.com,34,Scottsdale,USA,2023-02-22,Bronze,1150.30
+C094,Ryan Diaz,ryan.diaz@email.com,39,Garland,USA,2023-04-20,Gold,7800.50
+C095,Sarah Hayes,sarah.hayes@email.com,32,Glendale,USA,2023-03-28,Silver,3200.70
+C096,Thomas Myers,thomas.myers@email.com,28,Hialeah,USA,2023-01-18,Bronze,1350.80
+C097,Uma Owens,uma.owens@email.com,35,Reno,USA,2023-05-12,Gold,8500.40
+C098,Victor Foster,victor.foster@email.com,33,Chesapeake,USA,2023-02-25,Silver,3800.90
+C099,Wendy Gonzales,wendy.gonzales@email.com,37,Irving,USA,2023-04-10,Bronze,1050.60
+C100,Xavier Bryant,xavier.bryant@email.com,29,North Las Vegas,USA,2023-03-20,Gold,9200.70

@@ -161,3 +161,34 @@ data['Age'] = data['Age'].astype(int)  # Convert to integer first
 4. **Data Is AI's Food**: What you're learning isn't "writing code," but **"preparing clean food to feed AI models"**—this mindset makes you value every step's significance.
 
 5. **Make It Run First, Then Optimize**: Don't obsess over "which line is more elegant"—first make the program run and produce results, then consider improvements. Elegant code that doesn't run is useless.
+
+## Homework
+
+**📌 Comprehensive Practice Task List**
+
+**Phase 1: Data Cleaning (using 6_main_orders.csv)**
+
+- **Drop Nulls**: Delete rows containing any null values (missing quantity, customer_rating, etc.)
+- **Drop Duplicates**: Remove duplicate orders based on `order_id` (keep the first occurrence)
+- **Convert Type**: Convert `order_date` to datetime format
+- **Remove Outliers**: Delete rows where `quantity` ≤ 0 or > 10, `unit_price` ≤ 0, or `customer_rating` < 1 or > 5
+- **Rename Columns**: Rename `total_amount` to `revenue`
+- **Reorder Columns**: Move `order_id`, `customer_id`, `order_date` to the front
+- **Filter Rows**: Keep only orders where `product_category` is "Electronics" AND `revenue` > 500
+- **Sort Data**: Sort by `revenue` in descending order
+- **Add New Columns**: Add `is_high_value` column (True if revenue > 1000)
+- **Validation**: Count rows before/after cleaning
+
+**Phase 2: Data Merging (with 6_customer_info.csv)**
+
+- **Merge**: Merge `main_orders.csv` and `customer_info.csv` on `customer_id`
+- **Filter**: Keep only orders where `customer_tier` is "Gold" AND `age` is between 25-45
+- **Add Column**: Add `profit_margin` column (assume cost is 70% of revenue)
+- **Group & Aggregate**: Group by `customer_tier`, calculate average revenue, average age, and order count
+- **Sort**: Sort by `lifetime_value` in descending order
+- **Select Columns**: Keep only `customer_name`, `age`, `customer_tier`, `revenue`, `profit_margin`
+- **Save**: Save result as `final_analysis.csv`
+
+**All exercises must count rows: original/cleaned/final**  
+**Suggest using assert to verify data integrity**  
+**Use print() after each step to view results**
