@@ -1,4 +1,4 @@
-# MLops Roadmap
+# MLOps Roadmap
 
 **Skill Pyramid**
 
